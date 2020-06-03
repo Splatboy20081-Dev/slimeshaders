@@ -4,4 +4,10 @@ html {
 
 .title {
     text-align: center;
+};
+
+.slime-download-button {
+    background-color: black;
+    margin: 40px;
+    color: goldenrod;
 }
